@@ -1,3 +1,4 @@
+import com.sun.java.swing.plaf.windows.resources.windows;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -14,6 +15,7 @@ public class google {
         //open browser
         System.setProperty("webdriver.chrome.driver", "D:\\chrome driver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
+        driver.manage().window().maximize();
         driver.get("http://automationpractice.com/index.php");
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 

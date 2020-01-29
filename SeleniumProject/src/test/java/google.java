@@ -15,6 +15,7 @@ public class google {
         //open browser
         System.setProperty("webdriver.chrome.driver", "D:\\chrome driver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
+
         driver.manage().window().maximize();
         driver.get("http://automationpractice.com/index.php");
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -83,7 +84,7 @@ public class google {
 
         driver.findElement(By.xpath("//*[@id=\"form\"]/p/button/span")).click();
         System.out.println("check box");
-        // driver.close();
+         driver.close();
 
 
 

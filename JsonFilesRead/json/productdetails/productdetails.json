@@ -1,0 +1,1119 @@
+
+{
+    "ack": false,
+    "productDetail": {
+        "id": "960134999",
+        "price": 0,
+        "basePrice": 0,
+        "promoEndDate": null,
+        "pricePer": 0,
+        "sellByWeight": "",
+        "averageWeight": ".000",
+        "maxWeight": ".000",
+        "upc": "0007781502709",
+        "edited": false,
+        "versionid": 0,
+        "lineadded": "0001-01-01T00:00:00",
+        "aisleId": "1_13_2_8",
+        "name": "De Maiz Corn Tortilla 5.5 Inch - 16 Oz",
+        "image": "https://shop-qa2.safeway.com/productimages/100x100/960134999_100x100.jpg",
+        "estimatedDiscount": 0,
+        "departmentName": "International Cuisine",
+        "aisleName": "Hispanic Foods",
+        "shelfName": "Tortillas, Tacos & Wraps",
+        "promoDescription": "",
+        "promoType": "",
+        "promoText": "",
+        "triggerQuantity": 0,
+        "comment": "",
+        "substitutionValue": "TS",
+        "inlinePromoId": "",
+        "inlinePromoImage": "",
+        "quantity": 0,
+        "details": [
+            {
+                "header": "Description",
+                "value": "Corn Tortilla, 5.5 Inch"
+            },
+            {
+                "header": "Ingredients",
+                "value": "White Corn, Water, Lime, Propionic Acid (to Preserver Freshness), Guar Gum, Cellulose Gum, Benzoic Acid (Preservative), Phosphoric Acid (Acidulant), and Enzymes (to Preserve Freshness)."
+            },
+            {
+                "header": "Directions",
+                "value": "Please refrigerate after purchase to extend freshness."
+            },
+            {
+                "header": "Category",
+                "value": "MEXICAN"
+            },
+            {
+                "header": "Manufacturer/Distributor",
+                "value": "United Supermarkets 2206 114th St Lubbock, TX 79423"
+            }
+        ],
+        "nutritionFacts": [
+            [
+                {
+                    "id": null,
+                    "value": "Serving Size",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "2 tortillas",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Serving Per Container",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "10",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": null,
+                    "isLine": true,
+                    "lineHeight": 2,
+                    "isLineBlack": true
+                }
+            ],
+            [
+                {
+                    "id": "",
+                    "value": "",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "Amount Per Serving",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Calories",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "90",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Calories from Fat",
+                    "offset": true,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "10",
+                    "offset": true,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": null,
+                    "isLine": true,
+                    "lineHeight": 2,
+                    "isLineBlack": true
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "% Daily Value*",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Total Fat",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "1g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "1%",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Saturated Fat",
+                    "offset": true,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0%",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Trans Fat",
+                    "offset": true,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Cholesterol",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0%",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Sodium",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0%",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Potassium",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "79mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "2%",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Total Carbohydrate",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "19g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "7%",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Dietary Fiber",
+                    "offset": true,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0%",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Sugars",
+                    "offset": true,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "1g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Protein",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "3g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": null,
+                    "isLine": true,
+                    "lineHeight": 2,
+                    "isLineBlack": true
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "% Daily Value*",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Vitamin A",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0%",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Vitamin C",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0%",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Calcium",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "3%",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Iron",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "0%",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": null,
+                    "isLine": true,
+                    "lineHeight": 2,
+                    "isLineBlack": true
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "(-) Information is currently not available for this nutrient.",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "* Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs**.",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "** Percent Daily Values listed below are intended for adults and children over 4 years of age. Foods represented or purported to be for use by infants, children less than 4 years of age, pregnant women, or lactating women shall use the RDI's that are specified for the intended group provided by the FDA.",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Calories:",
+                    "offset": false,
+                    "colSpan": 2,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "2,000",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "2,500",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": null,
+                    "isLine": true,
+                    "lineHeight": 2,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Total Fat",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "Less than",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "65g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "80g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Sat. Fat",
+                    "offset": true,
+                    "colSpan": 1,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "Less than",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "20g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "25g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Cholesterol",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "Less than",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "300mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "300mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Sodium",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "Less than",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "2400mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "2400mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Potassium",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "3500mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "3500mg",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Total Carbohydrate",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "300g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "375g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Dietary Fiber",
+                    "offset": true,
+                    "colSpan": 1,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "25g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                },
+                {
+                    "id": null,
+                    "value": "30g",
+                    "offset": false,
+                    "colSpan": 1,
+                    "align": "right",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": null,
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": null,
+                    "isLine": true,
+                    "lineHeight": 2,
+                    "isLineBlack": true
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Calories per gram:",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Fat 9",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Carbohydrate 4",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ],
+            [
+                {
+                    "id": null,
+                    "value": "Protein 4",
+                    "offset": false,
+                    "colSpan": 4,
+                    "align": "left",
+                    "isLine": false,
+                    "lineHeight": 0,
+                    "isLineBlack": false
+                }
+            ]
+        ],
+        "displayType": 0,
+        "unitOfMeasure": "",
+        "restrictedValue": 0,
+        "salesRank": 16587,
+        "width": 0,
+        "depth": 0,
+        "height": 0,
+        "zonecode": null,
+        "prop65WarningTypeCD": null,
+        "prop65WarningText": null,
+        "prop65WarningIconRequired": false,
+        "productDetailsUrl": null,
+        "similarItemsUrl": null
+    }
+}

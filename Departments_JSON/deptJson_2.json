@@ -1,0 +1,118 @@
+{
+    "departments": [
+        {
+            "id": "1_24",
+            "name": "Cookies, Snacks & Candy",
+            "shortDesc": "Cookies-Snacks-Candy",
+            "image": "/images/cfh/24.jpg"
+        },
+        {
+            "id": "1_1",
+            "name": "Baby Care",
+            "shortDesc": "Baby-Care",
+            "image": "/images/cfh/1.jpg"
+        },
+        {
+            "id": "1_17",
+            "name": "Personal Care & Health",
+            "shortDesc": "Personal-Care-Health",
+            "image": "/images/cfh/17.jpg"
+        },
+        {
+            "id": "1_9",
+            "name": "Canned Goods & Soups",
+            "shortDesc": "Canned-Goods-Soups",
+            "image": "/images/cfh/9.jpg"
+        },
+        {
+            "id": "1_15",
+            "name": "Frozen Foods",
+            "shortDesc": "Frozen-Foods",
+            "image": "/images/cfh/15.jpg"
+        },
+        {
+            "id": "1_29",
+            "name": "Wine, Beer & Spirits",
+            "shortDesc": "Wine-Beer-Spirits",
+            "image": "/images/cfh/29.jpg"
+        },
+        {
+            "id": "1_22",
+            "name": "Pet Care",
+            "shortDesc": "Pet-Care",
+            "image": "/images/cfh/22.jpg"
+        },
+        {
+            "id": "1_5",
+            "name": "Beverages",
+            "shortDesc": "Beverages",
+            "image": "/images/cfh/5.jpg"
+        },
+        {
+            "id": "1_6",
+            "name": "Grains, Pasta & Sides",
+            "shortDesc": "Grains-Pasta-Sides",
+            "image": "/images/cfh/6.jpg"
+        },
+        {
+            "id": "1_18",
+            "name": "Paper, Cleaning & Home",
+            "shortDesc": "Paper-Cleaning-Home",
+            "image": "/images/cfh/18.jpg"
+        },
+        {
+            "id": "1_19",
+            "name": "Meat & Seafood",
+            "shortDesc": "Meat-Seafood",
+            "image": "/images/cfh/19.jpg"
+        },
+        {
+            "id": "1_2",
+            "name": "Bread & Bakery",
+            "shortDesc": "Bread-Bakery",
+            "image": "/images/cfh/2.jpg"
+        },
+        {
+            "id": "1_20",
+            "name": "Condiments, Spice & Bake",
+            "shortDesc": "Condiments-Spice-Bake",
+            "image": "/images/cfh/20.jpg"
+        },
+        {
+            "id": "1_7",
+            "name": "Breakfast & Cereal",
+            "shortDesc": "Breakfast-Cereal",
+            "image": "/images/cfh/7.jpg"
+        },
+        {
+            "id": "1_23",
+            "name": "Fruits & Vegetables",
+            "shortDesc": "Fruits-Vegetables",
+            "image": "/images/cfh/23.jpg"
+        },
+        {
+            "id": "1_12",
+            "name": "Deli",
+            "shortDesc": "Deli",
+            "image": "/images/cfh/12.jpg"
+        },
+        {
+            "id": "1_11",
+            "name": "Dairy, Eggs & Cheese",
+            "shortDesc": "Dairy-Eggs-Cheese",
+            "image": "/images/cfh/11.jpg"
+        },
+        {
+            "id": "1_13",
+            "name": "International Cuisine",
+            "shortDesc": "International-Cuisine",
+            "image": "/images/cfh/13.jpg"
+        },
+        {
+            "id": "1_14",
+            "name": "Flowers",
+            "shortDesc": "Flowers",
+            "image": "/images/cfh/14.jpg"
+        }
+    ]
+}

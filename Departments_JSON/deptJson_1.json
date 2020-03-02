@@ -1,0 +1,96 @@
+ {
+   "ack":false,
+   "departments":[
+      {
+         "id":"Baby-Care",
+         "name":"Baby Care",
+         "image":"/images/cfh/1.jpg"
+      },
+      {
+         "id":"Beverages",
+         "name":"Beverages",
+         "image":"/images/cfh/5.jpg"
+      },
+      {
+         "id":"Bread-Bakery",
+         "name":"Bread & Bakery",
+         "image":"/images/cfh/2.jpg"
+      },
+      {
+         "id":"Breakfast-Cereal",
+         "name":"Breakfast & Cereal",
+         "image":"/images/cfh/7.jpg"
+      },
+      {
+         "id":"Canned-Goods-Soups",
+         "name":"Canned Goods & Soups",
+         "image":"/images/cfh/9.jpg"
+      },
+      {
+         "id":"Condiments-Spice-Bake",
+         "name":"Condiments, Spice & Bake",
+         "image":"/images/cfh/20.jpg"
+      },
+      {
+         "id":"Cookies-Snacks-Candy",
+         "name":"Cookies, Snacks & Candy",
+         "image":"/images/cfh/24.jpg"
+      },
+      {
+         "id":"Dairy-Eggs-Cheese",
+         "name":"Dairy, Eggs & Cheese",
+         "image":"/images/cfh/11.jpg"
+      },
+      {
+         "id":"Deli",
+         "name":"Deli",
+         "image":"/images/cfh/12.jpg"
+      },
+      {
+         "id":"Frozen-Foods",
+         "name":"Frozen Foods",
+         "image":"/images/cfh/15.jpg"
+      },
+      {
+         "id":"Fruits-Vegetables",
+         "name":"Fruits & Vegetables",
+         "image":"/images/cfh/23.jpg"
+      },
+      {
+         "id":"Grains-Pasta-Sides",
+         "name":"Grains, Pasta & Sides",
+         "image":"/images/cfh/6.jpg"
+      },
+      {
+         "id":"International-Cuisine",
+         "name":"International Cuisine",
+         "image":"/images/cfh/13.jpg"
+      },
+      {
+         "id":"Meat-Seafood",
+         "name":"Meat & Seafood",
+         "image":"/images/cfh/19.jpg"
+      },
+      {
+         "id":"Paper-Cleaning-Home",
+         "name":"Paper, Cleaning & Home",
+         "image":"/images/cfh/18.jpg"
+      },
+      {
+         "id":"Personal-Care-Health",
+         "name":"Personal Care & Health",
+         "image":"/images/cfh/17.jpg"
+      },
+      {
+         "id":"Pet-Care",
+         "name":"Pet Care",
+         "image":"/images/cfh/22.jpg"
+      },
+      {
+         "id":"Wine-Beer-Spirits",
+         "name":"Wine, Beer & Spirits",
+         "image":"/images/cfh/29.jpg"
+      }
+   ]
+}
+
